@@ -55,5 +55,6 @@
   .slider .mySlides {
     width: 355px;
     height: 370px;
+    overflow : hidden;
   }
 }
