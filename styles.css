@@ -11,7 +11,7 @@
   width: 100%;
   height: 50rem;
   margin: auto;
-  overflow: auto;
+  overflow: hidden;
 }
 .slider .sl1 {
   display: block;
