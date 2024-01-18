@@ -51,7 +51,7 @@
     opacity: 1;
   }
 }
-@media only screen and (max-width: 370px) {
+@media only screen and (max-width: 400px) {
   .slider .mySlides {
     width: 355px;
     height: 370px;
